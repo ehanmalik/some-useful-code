@@ -1,2 +1,2 @@
-# some-useful-code-i-made-related-to-engineering
+# some-useful-code
 use these if you so please
